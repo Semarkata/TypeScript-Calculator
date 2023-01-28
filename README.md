@@ -3,4 +3,7 @@
 
 - First, you have to install NodeJS
   - [Link to NodeJS](https://nodejs.org/en/download/)
-- Start npm in your local project ``npm init -y``
+- Start npm in your local project 
+  - ``npm init -y``
+
+npm install --save-dev ts-node typescript
